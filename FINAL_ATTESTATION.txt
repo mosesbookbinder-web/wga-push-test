@@ -1,13 +1,9 @@
 FINAL ATTESTATION
-date=2026-04-17
-recovery_mode=synthetic_reconstruction
-validation_status=62_of_62_ok
-remote_repo=git@github.com:mosesbookbinder-web/wga-push-test.git
-remote_main_commit=cc904de4d710d749f8b66edffeeab8a21c41546f
-remote_tag=closure-proof-2026-04-17
-tag_object=b40fbe13fbdd36a5d8907481fb2449052c272324
-tag_target_commit=cc904de4d710d749f8b66edffeeab8a21c41546f
+date=20260417_153818
+run_dir=/Users/mosesbookbinder/ARCHIVE_RECOVERY/live_outputs
+receipt_dir=/Users/mosesbookbinder/ARCHIVE_RECOVERY/live_receipts
+bundle_dir=/Users/mosesbookbinder/ARCHIVE_RECOVERY/CLOSURE_BUNDLE
+coupled_decision=PASS
+reason=all_required_paths_present
 chain_integrity=receipts->reconstruction->rehash->git_anchor
-chain_integrity=receipts->reconstruction->rehash->git_anchor
-chain_integrity=receipts->reconstruction->rehash->git_anchor
-chain_integrity=receipts->reconstruction->rehash->git_anchor
+coupling=polaris->finance->closeout
