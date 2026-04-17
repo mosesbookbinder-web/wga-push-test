@@ -7,3 +7,4 @@ remote_main_commit=cc904de4d710d749f8b66edffeeab8a21c41546f
 remote_tag=closure-proof-2026-04-17
 tag_object=b40fbe13fbdd36a5d8907481fb2449052c272324
 tag_target_commit=cc904de4d710d749f8b66edffeeab8a21c41546f
+chain_integrity=receipts->reconstruction->rehash->git_anchor
