@@ -1,0 +1,10 @@
+14:12:37.093115 exec-cmd.c:145          trace: resolved executable path from Darwin stack: /Library/Developer/CommandLineTools/usr/bin/git
+14:12:37.093463 exec-cmd.c:267          trace: resolved executable dir: /Library/Developer/CommandLineTools/usr/bin
+14:12:37.093932 git.c:476               trace: built-in: git push -u origin main
+14:12:37.095039 run-command.c:673       trace: run_command: unset GIT_PREFIX; ssh git@github.com 'git-receive-pack '\''mosesbookbinder-web/wga-push-test.git'\'''
+14:12:37.095074 run-command.c:765       trace: start_command: /usr/bin/ssh git@github.com 'git-receive-pack '\''mosesbookbinder-web/wga-push-test.git'\'''
+ERROR: Repository not found.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
