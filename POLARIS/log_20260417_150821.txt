@@ -1,0 +1,3 @@
+2026-04-17T14:53:23 | RUN | started field sequence
+2026-04-17T14:53:23 | EXTERNAL | lawyer text received
+2026-04-17T14:53:23 | ENV | storm onset / wind shift

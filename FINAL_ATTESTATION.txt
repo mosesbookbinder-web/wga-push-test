@@ -10,3 +10,4 @@ tag_target_commit=cc904de4d710d749f8b66edffeeab8a21c41546f
 chain_integrity=receipts->reconstruction->rehash->git_anchor
 chain_integrity=receipts->reconstruction->rehash->git_anchor
 chain_integrity=receipts->reconstruction->rehash->git_anchor
+chain_integrity=receipts->reconstruction->rehash->git_anchor
